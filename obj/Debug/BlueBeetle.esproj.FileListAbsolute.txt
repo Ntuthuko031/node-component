@@ -1,0 +1,2 @@
+C:\Users\Administrator\source\repos\BlueBeetle\BlueBeetle\obj\Debug\BlueBeetle.esproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\BlueBeetle\BlueBeetle\obj\Debug\BlueBeetle.esproj.CoreCompileInputs.cache
